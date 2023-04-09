@@ -17,16 +17,6 @@ This project analyzes the performance of top directors based on various metrics 
 * Data Visualization: Visualizations such as scatter plots, heatmaps, and bar graphs were used to represent the data.
 * Conclusion: The project concludes by identifying the top directors based on the metrics used and discussing the limitations of the data used.
 
-## Files Included:
-
-* 'Analysis_of_Top_Directors_and_Movie_Performance.ipynb': Jupyter notebook containing the code used for the analysis and visualizations.
-* 'top_all_time.csv': CSV file containing the total profit and average profit per film of each director.
-* 'pop_by_director.csv': CSV file containing the popularity score of each director.
-* 'pop_by_genre.csv': CSV file containing the popularity score of each genre.
-* 'sorted_dgg.csv': CSV file containing the profitability of each genre for each director.
-* 'df2.csv': CSV file containing the number of times each director appeared in the top 20 for each metric.
-* 'README.md': Markdown file containing the project description, methods, files used, and files included.
-
 ## Acknowledgments:
 
 The data used in this project was obtained from the TMDb database.
